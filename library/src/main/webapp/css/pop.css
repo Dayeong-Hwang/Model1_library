@@ -1,0 +1,31 @@
+@charset "UTF-8";
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul, li {
+	list-style: none;
+}
+
+.pop {
+	width: 500px;
+	height: 500px;
+}
+
+.close{
+	width: 500px;
+	height: 30px;
+	background-color: black;
+	text-align: right;
+	font-size: 15px;
+	padding-right: 10px;
+	padding-top:4px;
+	box-sizing: border-box;
+
+}
+span{
+	cursor: pointer;
+	font-weight: bold;
+	color: white;
+}

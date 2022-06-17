@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 35px;
+}
+
+h2 {
+	margin-left: 190px;
+	text-align: center;
+}
+
+#ssearch {
+	color: #8ed1de;
+}
+
+#sbook {
+	border: 10px solid #8ed1de;
+	width: 401px;
+	height: 59px;
+	box-sizing: border-box;
+}
+
+form {
+	border: 1px solid #aba9a9;
+	border-radius: 5px;
+	padding: 20px;
+	width: 400px;
+	margin: 30px auto;
+	font-weight: bold;
+	margin-left: 368px;
+	border-top: 3px solid #000;
+}
+
+.btn {
+	padding: 9px 2%;
+	background: #000;
+	color: #fff;
+	border-radius: 0;
+	vertical-align: middle;
+}
+
+input[type=text] {
+	display: block;
+	width: 96%;
+	height: 38px;
+	line-height: 38px;
+	padding: 0 2%;
+	color: #333;
+	font-size: 18px;
+	border: 1px solid #bfbfbf;
+	margin-top: 2px;
+}
+
+label {
+	color: #000;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+#book {
+	border: 10px solid #20407b;
+	width: 401px;
+	height: 59px;
+	box-sizing: border-box;
+}
+
+
+
+#bookSearch {
+	width: 700px;
+	margin-left: 210px;
+	border-top: 1px solid #444444;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+th{
+	font-size: 18px;
+	font-weight: bold;
+	background-color:skyblue;
+
+}
+
+th, td {
+	border-bottom: 1px solid #444444;
+	border-left: 1px solid #444444;
+	padding: 10px;
+}
+
+th:first-child, td:first-child {
+	border-left: none;
+}
+
+
+#stable h2 {
+	
+	margin-top: 0;
+	margin-left: 41px;
+	text-align: center;
+}
+
+
+ #stable td {
+	border-style : hidden;
+	margin: 0;
+	padding: 0;
+}
