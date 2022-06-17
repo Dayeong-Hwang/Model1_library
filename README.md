@@ -11,7 +11,7 @@
 - JRE : jre1.8.0_321
 - Backend : Java (jdk1.8.0_321)
 - Database : MySQL
-- Frontend : jQuery,JavaScript, HTML5, CSS3
+- Frontend : jQuery, JavaScript, HTML5, CSS3
 - 형상관리 툴: GitHub
 
 
